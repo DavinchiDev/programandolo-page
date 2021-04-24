@@ -1,0 +1,57 @@
+html, body, pre, code, kbd, samp {
+    font-family: 'Press Start 2P';
+}
+/* titulo */
+.titulo {
+    text-align: center;
+}
+.description {
+    text-align: center;
+    font-size: 12px;
+}
+/*botones de inicio*/
+.btn1 {
+    margin-top: 25px;
+}
+.btn2 {
+    margin-top: 25px;
+}
+.btn3 {
+    margin-top: 25px;
+}
+/* contenedores */
+.social {
+    margin-top: 10px;
+}
+.test {
+    margin-top: 20px;
+}
+/*plataformas*/
+.plataformas {
+    font-size: 10px;
+    text-align: center;
+}
+/* cuerpo */
+.cuerpo {
+    margin: 0 150px 0 150px;
+}
+@media only screen and (max-width: 600px) {
+    .cuerpo {
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 12px;
+    }
+}
+/*copyright*/
+.copyright {
+    font-size: 12px;
+    text-align: justify;
+}
+/*listas*/
+.lists {
+    font-size: 12px;
+    text-align: left;
+}
+.col {
+    padding: 10px;
+}
